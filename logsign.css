@@ -1,0 +1,14 @@
+body {
+    background-attachment: fixed;
+    background-image: url(bcgdoor.jpeg);
+    background-size: 1600px;
+}
+
+
+form {
+    font-size: larger;
+    position: absolute;
+    left: 38%;
+    top: 30%;
+    width: 400px;
+}

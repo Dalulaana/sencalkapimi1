@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+
+.carousel-inner {
+    margin-top: 80px;
+}
+
+footer {
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 150px;
+}
+
+.container {
+    margin-top: 50px;
+}
